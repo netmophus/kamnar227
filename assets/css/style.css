@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
 #header {
   position: relative;
   width: 100%;
-  padding: 100px 0;
+  padding: 40px 0;
   /* countdown */
 }
 
@@ -103,12 +103,12 @@ h1, h2, h3, h4, h5, h6 {
 
 #header h2 {
   color: #eee;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
   font-size: 22px;
 }
 
 #header .countdown {
-  margin-bottom: 80px;
+  margin-bottom: 30px;
 }
 
 #header .countdown div {
@@ -252,25 +252,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .social-links a {
-  font-size: 24px;
+  font-size: 50px;
   display: inline-block;
   color: rgba(255, 255, 255, 0.8);
   line-height: 1;
-  padding-top: 14px;
+  padding-top: 2px;
   margin: 0 10px;
   text-align: center;
   transition: 0.3s;
 }
 
 #header .social-links a:hover {
-  color: #fff;
+  color: rgb(235, 22, 22);
 }
 
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 20px 0;
 }
 
 .section-bg {
